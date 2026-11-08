@@ -58,20 +58,20 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "guide.for.edu.sg:443",
-    "www.dbs.com.sg:443",
-    "chrono24.com:443",
-    "www.people.inc:443",
-    "linear.app:443",
-    "sellerlogic.com:443",
-    "i.pages.dev:443",
-    "mrmacintosh.com:443",
-    "zen-browser.app:443",
-    "aimagazine.com:443",
-    "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
-    "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+    "email.lg.com:443",
+    "cf.vvhan.com:443",
+    "cdn.7zz.cn:443",
+    "www.shopify.com:443",
+    "101yaoye.com:443",
+    "www.speedtest.net:443",
+    "www.sloomb.com:443",
+    "gitlab.com:443",
+    "hsl.upstate.edu:443",
+    "constitution.congress.gov:443",
+    "images.chesscomfiles.com:443",
+    "markmonitor.com:443",
+    "login.rockwellautomation.com:443",
+    "www.trumpinternationalrealty.com:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
